@@ -1,0 +1,6 @@
+git merge
+git reset
+git revert
+git cherry pick
+git commit -- amend 
+git branch delete
